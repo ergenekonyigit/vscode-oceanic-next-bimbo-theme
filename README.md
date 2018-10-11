@@ -12,4 +12,4 @@
 
 ## Screenshot
 
-![Oceanic Next Bimbo Theme](https://github.com/ergenekonyigit/oceanic-next-bimbo-theme/raw/master/images/screenshot.jpg)
+![Oceanic Next Bimbo Theme](images/screenshot.jpg)
