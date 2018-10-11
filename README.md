@@ -1,0 +1,15 @@
+# One Dark Bimbo Theme
+
+## Installation
+
+1. Open Extensions on the sidebar
+2. Search for "One Dark Bimbo"
+3. Install it
+4. Reload the editor
+5. Press `⌘K + ⌘T`
+6. Pick "One Dark Bimbo" one from the list and hit enter
+7. Done
+
+## Screenshot
+
+![Oceanic Next Bimbo Theme](https://github.com/ergenekonyigit/oceanic-next-bimbo-theme/raw/master/images/screenshot.jpg)

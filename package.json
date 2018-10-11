@@ -1,0 +1,31 @@
+{
+  "name": "oceanic-next-bimbo",
+  "displayName": "Oceanic Next Bimbo",
+  "description": "Minimalistic and modern looking fork of fantastic Oceanic theme.",
+  "version": "1.0.0",
+  "publisher": "ergenekonyigit",
+  "engines": {
+    "vscode": "^1.19.0"
+  },
+  "categories": ["Themes"],
+  "icon": "images/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Oceanic Next Bimbo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic-next-bimbo-color-theme.json"
+      }
+    ]
+  },
+  "keywords": ["bimbo", "dark", "oceanic", "next", "theme"],
+  "license": "MIT",
+  "maintainers": ["Ergenekon Yigit <yigitergenekon@gmail.com>"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ergenekonyigit/vscode-oceanic-next-bimbo-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ergenekonyigit/vscode-oceanic-next-bimbo-theme/issues"
+  }
+}
