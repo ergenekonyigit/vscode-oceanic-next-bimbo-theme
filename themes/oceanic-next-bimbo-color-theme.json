@@ -13,6 +13,7 @@
     "dropdown.background": "#1d1f23",
     "dropdown.border": "#181A1F",
     "editor.background": "#282c35",
+    "editorCursor.foreground": "#ffffff",
     "editor.findMatchHighlightBackground": "#314365",
     "editor.lineHighlightBackground": "#383E4A",
     "editor.selectionBackground": "#67769660",
