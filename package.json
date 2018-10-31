@@ -17,6 +17,11 @@
         "label": "Oceanic Next Bimbo",
         "uiTheme": "vs-dark",
         "path": "./themes/oceanic-next-bimbo-color-theme.json"
+      },
+      {
+        "label": "Oceanic Next Bimbo Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/oceanic-next-bimbo-dark-color-theme.json"
       }
     ]
   },

@@ -12,4 +12,10 @@
 
 ## Screenshot
 
-![Oceanic Next Bimbo Theme](images/screenshot.jpg)
+**Oceanic Next Bimbo Theme**
+
+![Oceanic Next Bimbo Theme](images/bimbo.jpg)
+
+**Oceanic Next Bimbo Dark Theme**
+
+![Oceanic Next Bimbo Dark Theme](images/bimbo-dark.jpg)
