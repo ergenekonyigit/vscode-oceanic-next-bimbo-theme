@@ -19,3 +19,7 @@
 **Oceanic Next Bimbo Dark Theme**
 
 ![Oceanic Next Bimbo Dark Theme](images/bimbo-dark.jpg)
+
+**Oceanic Next Bimbo Pure Theme**
+
+![Oceanic Next Bimbo Pure Theme](images/bimbo-pure.jpg)
