@@ -2,7 +2,7 @@
   "name": "oceanic-next-bimbo",
   "displayName": "Oceanic Next Bimbo",
   "description": "Minimalistic and modern looking fork of fantastic Oceanic theme.",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "publisher": "ergenekonyigit",
   "engines": {
     "vscode": "^1.19.0"
